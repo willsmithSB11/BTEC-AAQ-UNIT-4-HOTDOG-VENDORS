@@ -1,0 +1,4 @@
+Most Productive Vendor,['KK_745', 'Korner Kart', '202320', '90', '180', '25.0', '4']
+Least Ketchup Vendor,['DD_056', 'Dolly Dogs', '202313', '40', '140', '10.5', '1']
+Total Vegan Hotdogs,1020
+Total Meat Hotdogs,2360
